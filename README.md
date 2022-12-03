@@ -13,3 +13,16 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+Git version
+
+```bash
+git --version
+```
+
+Download Dataset
+```bash
+wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+```
+
+
